@@ -1,0 +1,34 @@
+{
+  "name": "simple-object-handler",
+  "version": "1.0.0",
+  "description": "Simple object handler where it is possible to clean params from object, verify if object is empty and much more.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdjohnnatha/simple-object-handler.git"
+  },
+  "keywords": [
+    "object-handler",
+    "simple-object-handler",
+    "clean-params",
+    "clean-object-params",
+    "object-keys"
+  ],
+  "author": "claudio djohnnatha duarte lourenco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdjohnnatha/simple-object-handler/issues"
+  },
+  "homepage": "https://github.com/cdjohnnatha/simple-object-handler#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
