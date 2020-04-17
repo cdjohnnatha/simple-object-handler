@@ -1,6 +1,6 @@
 {
   "name": "simple-object-handler",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple object handler where it is possible to clean params from object, verify if object is empty, get object keys, params, and much more.",
   "main": "index.js",
   "directories": {
