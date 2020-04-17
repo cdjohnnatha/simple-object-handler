@@ -1,5 +1,8 @@
 # Simple Object Handler
 
+[![CircleCI](https://circleci.com/gh/cdjohnnatha/simple-object-handler.svg?style=shield)](https://circleci.com/gh/cdjohnnatha/simple-object-handler)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://circleci.com/gh/cdjohnnatha/simple-object-handler/LICENSE)
+
 ## Table of Contents
 
 <!-- vscode-markdown-toc -->
